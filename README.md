@@ -9,15 +9,5 @@ Repositório para armazenar resumos sobre Git e GitHub do curso Versionamento de
 
 | Aulas | Resumos |
 |-------|---------|
-| Gravando alterações no Repositório Local | [Resumos]() |
-
-```
-git init 
-```
-
-## 🔍 Referências 
-- [Digital Inovation One](https://www.dio.me/)
-
-teste 1
-
+| Vincular e subir modificação para GitHub | [Resumos](Manual_Git.md) |
 
