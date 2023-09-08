@@ -12,6 +12,11 @@ Caso não enteja na pasta se faz necessário entrar na mesma, mesmo que pelo pr�
 ```
 git remote add origin [url-do-repo]
 ```
+### Verificar em qual link (Repositório) está vinculado
+```
+git remote -v
+```
+
 ### Caso existam arquivos que não estão na pasta local:
 ```
 git pull 
